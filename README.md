@@ -1,5 +1,4 @@
 # TensorFlow Developer
-![Crates.io](https://img.shields.io/crates/l/rustc-serialize?style=flat-square)
 
 [<img src="https://github.com/irinamarton/TensorFlow-Developer/blob/main/misc/DeepLearning_White.png" width="200"/>](https://www.deeplearning.ai) Professional Certificate
 
