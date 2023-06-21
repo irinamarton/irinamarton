@@ -4,8 +4,6 @@ Instructed by [<img src="https://ai.stanford.edu/~tengyuma/image/square_3594.jpg
 
 ### [Final Project: LLM & Safe RL for Short-term Stock Trading](https://github.com/irinamarton/Stanford-CS229-Final-Project)
 
-[<img src="https://github.com/irinamarton/Stanford-CS229-Final-Project/blob/main/CS229%20-%20Poster%20-%20Irina%20A%20Marton%20-%20s.jpg" width="800"/>](https://github.com/irinamarton/Stanford-CS229-Final-Project)
-
 
 
 # TensorFlow Developer
