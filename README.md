@@ -2,8 +2,7 @@
 
 Instructed by [<img src="https://ai.stanford.edu/~tengyuma/image/square_3594.jpg" width="20px" height="20px"/> Tengyu Ma](https://ai.stanford.edu/~tengyuma/)      [<img src="https://cs.stanford.edu/~chrismre/img/chrismre_headshot_lowres.jpg" width="20px" height="20px"/> Christopher Ré](https://cs.stanford.edu/~chrismre/)
 
-
-## [Final Project: LLM & Safe RL for Short-term Stock Trading](https://github.com/irinamarton/Stanford-CS229-Final-Project)
+### [Final Project: LLM & Safe RL for Short-term Stock Trading](https://github.com/irinamarton/Stanford-CS229-Final-Project)
 
 [<img src="https://github.com/irinamarton/Stanford-CS229-Final-Project/blob/main/CS229%20-%20Poster%20-%20Irina%20A%20Marton%20-%20s.jpg" width="800"/>](https://github.com/irinamarton/Stanford-CS229-Final-Project)
 
