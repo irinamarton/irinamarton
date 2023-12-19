@@ -1,3 +1,10 @@
+# Stanford CS330
+
+Instructed by [<img src="https://cs330.stanford.edu/images/chelsea_new.jpeg" width="20px" height="20px"/> Chelsea Finn](https://ai.stanford.edu/~cbfinn/)
+
+### [Final Project: Context-aware Stock Market Movement Prediction: a MAML and Incremental Learning Approach](https://github.com/irinamarton/Stanford-CS229-Final-Project)
+
+
 # Stanford CS229
 
 Instructed by [<img src="https://ai.stanford.edu/~tengyuma/image/square_3594.jpg" width="20px" height="20px"/> Tengyu Ma](https://ai.stanford.edu/~tengyuma/)      [<img src="https://cs.stanford.edu/~chrismre/img/chrismre_headshot_lowres.jpg" width="20px" height="20px"/> Christopher Ré](https://cs.stanford.edu/~chrismre/)
