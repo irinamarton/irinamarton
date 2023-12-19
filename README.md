@@ -2,7 +2,7 @@
 
 Instructed by [<img src="https://cs330.stanford.edu/images/chelsea_new.jpeg" width="20px" height="20px"/> Chelsea Finn](https://ai.stanford.edu/~cbfinn/)
 
-### [Final Project: Context-aware Stock Market Movement Prediction: a MAML and Incremental Learning Approach](https://github.com/irinamarton/Stanford-CS229-Final-Project)
+### [Final Project: Context-aware Stock Market Movement Prediction](https://github.com/irinamarton/Stanford-CS330-Final-Project)
 
 
 # Stanford CS229
