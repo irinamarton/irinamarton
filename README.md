@@ -2,7 +2,7 @@
 
 Instructed by [<img src="https://web.stanford.edu/class/cs224n/images/Christopher_Manning_resized.jpg" width="20px" height="20px"/> Christopher Manning](https://nlp.stanford.edu/~manning/)
 
-### [Final Project: Tailor-Made or Off-the-Rack? Comparing Domain-Specific and General-Domain Language Models on a Financial NLP Task](https://github.com/irinamarton/Stanford-CS224N-Final-Project)
+### [Final Project: Comparing Domain-Specific and General-Domain Language Models](https://github.com/irinamarton/Stanford-CS224N-Final-Project)
 
 # Stanford CS330
 
