@@ -1,3 +1,9 @@
+# Stanford CS224N
+
+Instructed by [<img src="https://web.stanford.edu/class/cs224n/images/Christopher_Manning_resized.jpg" width="20px" height="20px"/> Christopher Manning](https://nlp.stanford.edu/~manning/)
+
+### [Final Project: Tailor-Made or Off-the-Rack? Comparing Domain-Specific and General-Domain Language Models on a Financial NLP Task](https://github.com/irinamarton/Stanford-CS224N-Final-Project)
+
 # Stanford CS330
 
 Instructed by [<img src="https://cs330.stanford.edu/images/chelsea_new.jpeg" width="20px" height="20px"/> Chelsea Finn](https://ai.stanford.edu/~cbfinn/)
