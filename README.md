@@ -1,6 +1,6 @@
 # Stanford University Artificial Intelligence Graduate Certificate
 
-[<img src="https://github.com/irinamarton/TensorFlow-Developer/blob/main/misc/Coursera%20TensorFlow%20Developer.png" />](https://digitalcredential.stanford.edu/check/2E79A135F4EB1571D280C341EDB7149D75E31BC4F6A145035C15B7D027031D8Fd2JFZ2hUbHlXTDVqTGxRWHpPVStpOTBrN0U1M295QWwyZHNjUkpYeVppbTg5RmFL)
+[<img src="Stanford - AI Graduate Certificate.png" />](https://digitalcredential.stanford.edu/check/2E79A135F4EB1571D280C341EDB7149D75E31BC4F6A145035C15B7D027031D8Fd2JFZ2hUbHlXTDVqTGxRWHpPVStpOTBrN0U1M295QWwyZHNjUkpYeVppbTg5RmFL)
 
 
 # Stanford CS224N
