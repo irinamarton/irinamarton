@@ -1,3 +1,8 @@
+# Stanford University Artificial Intelligence Graduate Certificate
+
+[<img src="https://github.com/irinamarton/TensorFlow-Developer/blob/main/misc/Coursera%20TensorFlow%20Developer.png" />](https://digitalcredential.stanford.edu/check/2E79A135F4EB1571D280C341EDB7149D75E31BC4F6A145035C15B7D027031D8Fd2JFZ2hUbHlXTDVqTGxRWHpPVStpOTBrN0U1M295QWwyZHNjUkpYeVppbTg5RmFL)
+
+
 # Stanford CS224N
 
 Instructed by [<img src="https://web.stanford.edu/class/cs224n/images/Christopher_Manning_resized.jpg" width="20px" height="20px"/> Christopher Manning](https://nlp.stanford.edu/~manning/)
@@ -20,8 +25,6 @@ Instructed by [<img src="https://ai.stanford.edu/~tengyuma/image/square_3594.jpg
 
 
 # TensorFlow Developer
-
-[<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flearn.deeplearning.ai%2Fsign-up&psig=AOvVaw17z0iKXTvb7Pp55WfdnSBB&ust=1755450273466000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOiIqoLoj48DFQAAAAAdAAAAABAE" width="400"/>](https://www.deeplearning.ai) Professional Certificate
 
 Instructed by [<img src="https://github.com/irinamarton/TensorFlow-Developer/blob/main/misc/laurence_moroney.png" width="20"/> Laurence Moroney](https://laurencemoroney.com/about.html)
 
