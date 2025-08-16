@@ -21,7 +21,7 @@ Instructed by [<img src="https://ai.stanford.edu/~tengyuma/image/square_3594.jpg
 
 # TensorFlow Developer
 
-[<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flearn.deeplearning.ai%2Fsign-up&psig=AOvVaw17z0iKXTvb7Pp55WfdnSBB&ust=1755450273466000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOiIqoLoj48DFQAAAAAdAAAAABAE" width="200"/>](https://www.deeplearning.ai) Professional Certificate
+[<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flearn.deeplearning.ai%2Fsign-up&psig=AOvVaw17z0iKXTvb7Pp55WfdnSBB&ust=1755450273466000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOiIqoLoj48DFQAAAAAdAAAAABAE" width="400"/>](https://www.deeplearning.ai) Professional Certificate
 
 Instructed by [<img src="https://github.com/irinamarton/TensorFlow-Developer/blob/main/misc/laurence_moroney.png" width="20"/> Laurence Moroney](https://laurencemoroney.com/about.html)
 
